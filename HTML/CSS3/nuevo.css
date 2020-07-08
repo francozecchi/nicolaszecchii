@@ -1,0 +1,26 @@
+h1{
+	background: green;
+	font-style: italic;
+	font-size: 250%;
+	text-align: center;
+}
+
+table{
+	background: green;
+	text-align: center;
+}
+
+h1{
+	color: #FFFFFF;
+}    
+
+table{
+	color: skyblue;
+}
+
+main{
+	font-variant: small-caps;
+	font-size: 100%;
+	font-family: Arial, "Comic Sans", serif;
+}
+
